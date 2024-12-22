@@ -57,7 +57,7 @@ const LoginLandingPage = () => {
                 fullWidth
                 sx={{ mb: 2, py: 1.5 }}
                 component="a"
-                href="http://localhost:3000/api/admin/login"
+                href="https://brainwavelabsbackend-jnzx.onrender.com/api/admin/login"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -72,7 +72,7 @@ const LoginLandingPage = () => {
                 color="inherit" 
                 sx={{ mt: 1 }}
                 component="a"
-                href="http://localhost:3000/api/admin/signup"
+                href="https://brainwavelabsbackend-jnzx.onrender.com/api/admin/signup"
                 target="_blank"
                 rel="noopener noreferrer"
               >
